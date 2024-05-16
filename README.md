@@ -29,5 +29,6 @@ Analyze survival rate by age.
 Analyze survival rate by fare.
 Analyze survival rate by port of embarkation.
 
-**Visualizations**
+**Visualizations:**
+
 The script generates several visualizations to help understand the data, including histograms and count plots. These visualizations provide insights into the distribution of ages, survival rates by class, sex, fare, and embarkation port.
