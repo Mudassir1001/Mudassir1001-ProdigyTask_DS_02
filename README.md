@@ -1,6 +1,7 @@
 **Dataset**
 
 The dataset is a simplified version of the Titanic dataset and includes the following columns:
+
 PassengerId: Unique identifier for each passenger.
 Survived: Survival status (0 = No, 1 = Yes).
 Pclass: Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd).
